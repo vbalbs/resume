@@ -45,6 +45,8 @@ social:
     url: http://facebook.com/vbalbs2
   - title: github
     url: http://github.com/vbalbs
+  - title: linkedin
+    url: https://www.linkedin.com/in/vin%C3%ADcius-balbino-de-souza-b29463b8/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -52,7 +54,7 @@ address:
   - line: Campinas, São Paulo
 
 # Credits content
-credits: 'Created with Freelancer and edited for Vinícius Balbino'
+credits: 'Created with Freelancer and edited by Vinícius Balbino'
 
 # Build settings
 markdown: kramdown
